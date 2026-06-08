@@ -1,0 +1,1 @@
+// Multiple Team members can work on a Project and make changes in it and GIT will track each of the changes that were made in the Project.
