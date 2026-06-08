@@ -1,0 +1,1 @@
+// GIT is a version control system which keeps the changes that were made in the repository of a Project.
