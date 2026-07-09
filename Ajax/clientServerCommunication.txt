@@ -1,0 +1,3 @@
+Ajax stands for Asynchronous JavaScript & XML.
+
+Ajax helps to change the relevant content that needs to be changed and it does not reload the entire page.
