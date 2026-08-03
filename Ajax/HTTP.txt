@@ -1,0 +1,19 @@
+* HTTP stands for Hypertext Transfer Protocol.
+
+* Client opens up connection with server.
+* Client makes a request to server.
+* Server will process request.
+* Server will send response to the client.
+* Client will close the connection.
+
+* Different types of HTTP Requests are GET, POST, Delete, Patch, Put etc.
+
+* 200 - Request Successful
+* 401 - Client is unauthorized
+* 404 - Not Found
+
+* HTTP is a stateless request. Stateless request means there is no information around the request that is 
+maintained by the server.
+
+* Each HTTP request you made to the server is independent from the previous one. For e.g; the server will not 
+remember that the request R2 is made by the same client that made request R1.
