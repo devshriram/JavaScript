@@ -1,0 +1,7 @@
+* API stands for Application Programming Interface.
+
+* API acts as a medium of communication between two entities.
+
+* API gives response to the client in form of JSON. JSON stands for JavaScript Object Notation.
+
+* We can make JSON message look more beautiful by using "JSON Beautifier" Chrome Extension.
