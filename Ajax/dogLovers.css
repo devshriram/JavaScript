@@ -1,0 +1,30 @@
+#header{
+    height: 20vh;
+    width: 98vw;
+    background-image: linear-gradient(to right, #F1FFFE, #FEFBF1);
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+#dog-breed{
+    display: block;
+    margin-left: 20vw;
+    font-size: 20px;
+}
+
+
+#get-dog-image-button{
+    display: block;
+    margin-left: 70vw;
+    margin-top: -6vh;
+    font-size: 15px;
+}
+
+#next-image-button{
+    margin-left: 72.5vw;
+    margin-top: 28vh;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    color: lightskyblue;
+}
