@@ -19,7 +19,7 @@ function fetchRandomDogImage() {
         $('#dog-image').attr('src', imageUrl);
     };
 
-    // Hanlde the Error
+    // Handle the Error
     xhrRequest.onerror = function() {
         console.log("Request Failed");
     };
