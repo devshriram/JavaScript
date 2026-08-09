@@ -2,6 +2,7 @@ function fetchRandomDogImage() {
 
     // Get the Selected Breed
     var selectedValue = $('#breed_selected').val();
+    
     // Initialize the HTTP Request
     var xhrRequest = new XMLHttpRequest();
 
