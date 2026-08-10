@@ -1,0 +1,23 @@
+#container{
+    height: 100vh;
+    width: 100vw;
+}
+
+#get-courses-container{
+    position: fixed;
+    top: 30vh;
+    height: 25vh;
+    width: 100vw;
+    background-color: #F0F8FF;
+}
+
+#headline{
+    text-align: center;
+}
+
+#fetch-courses-button{
+    position: fixed;
+    left: 45vw;
+    font-size: 15px;
+    padding: 8px;
+}
