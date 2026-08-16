@@ -1,0 +1,28 @@
+#header{
+    height: 25vh;
+    width: 98.5vw;
+    background-image: linear-gradient(to right, #F2FFFE, #FFFAF1);
+}
+
+#datepicker-position{
+    display: block;
+    position: fixed;
+    top: 8vh;
+    left: 20vw;
+}
+
+#get-image-button{
+    display: block;
+    position: fixed;
+    top: 10vh;
+    left: 75vw;
+    font-size: 18px;
+}
+
+#content-container{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

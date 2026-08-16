@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Mars Rover </title>
+    <link rel="stylesheet" type="text/css" href="marsRover.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.14.2/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+</head>
+<body>
+
+    <div id="header">
+      <p id="datepicker-position">Date: <input type="text" id="datepicker" placeholder="Enter Date">
+      </p>
+      <button id="get-image-button"> Get Images </button>
+    </div>
+
+    <div id="content-container">
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-4.0.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.14.2/jquery-ui.js"></script>
+  <script>
+        $(function () {
+
+            $("#datepicker").datepicker({
+                dateFormat: "yy-mm-dd"
+            });
+
+        });
+    </script>
+    <script type="text/javascript" src="marsRover.js"> </script>
+
+</body>
+</html>
